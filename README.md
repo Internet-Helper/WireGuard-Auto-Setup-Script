@@ -1,3 +1,3 @@
-<img width="1104" height="139" alt="Top" src="https://github.com/user-attachments/assets/7e0a6e8c-2b23-47d2-9401-4f0d5e18b443" />
+<img width="1104" height="139" alt="Top" src="https://github.com/user-attachments/assets/8a03ff20-98ab-4fe4-917e-8ea4db5acc9c" />
 
-#### Этот скрипт, как умный помощник, задаст несколько вопросов и сам создаст подходящую вам сеть через WireGuard.
+#### Этот скрипт задаст несколько вопросов, создаст подходящую вам сеть WireGuard и поможет легко ею управлять.
